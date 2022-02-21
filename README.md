@@ -32,7 +32,7 @@ Ensure all user stories have been met.
 
 Deployed on [GitHub Pages](https://derektypist.github.io/website-style-guide) at the main branch.
 
-Also available on [Codecademy](https://www.codecademy.com/workspaces/6203bd9d411f17397900f5af)
+Also available on [Codecademy](https://www.codecademy.com/workspaces/6203bd9d411f17397900f5af).
 
 ## Credits
 
